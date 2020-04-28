@@ -1,2 +1,2 @@
 # OMDB-API
-Establishing connection between OMDB API and python
+Establishing connection to OMDB API using R
